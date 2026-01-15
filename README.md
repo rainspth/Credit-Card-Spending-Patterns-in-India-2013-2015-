@@ -19,7 +19,7 @@ This project analyzes credit card spending patterns in India from 2013 to 2015 t
 
 ## Key Insights
 - Total credit card usage reached approximately **4bn** during the 2013–2015 period.
-- Credit card spending is highly concentrated in urban areas, with the **top 4 cities contributing over half of total usage**.
+- The top 4 cities collectively contribute a significant share of total credit card usage, highlighting urban centers as major drivers of spending, though usage remains distributed across other regions.
 - Overall spending patterns between male and female users are broadly similar, **with moderate differences observed in certain expense categories**.
 - Travel-related expenses show the most noticeable growth trend over time compared to other categories.
 - Total spending is relatively evenly distributed across card types, with **no single card type clearly dominating overall usage**.
